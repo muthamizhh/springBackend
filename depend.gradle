@@ -1,0 +1,2 @@
+implementation 'net.lightbody.bmp:browsermob-core:2.1.5'
+	implementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
